@@ -1,7 +1,6 @@
 
 #include"mainwindow.h"
-//update to qt5
-#include<QtWidgets>
+#include<QtGui>
 
 int main(int argc,char* argv[]){
     QApplication app(argc,argv);
